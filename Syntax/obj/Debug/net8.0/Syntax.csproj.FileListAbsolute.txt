@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\bin\Debug\net8.0\Syntax.exe
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\bin\Debug\net8.0\Syntax.deps.json
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\bin\Debug\net8.0\Syntax.runtimeconfig.json
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\bin\Debug\net8.0\Syntax.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\bin\Debug\net8.0\Syntax.pdb
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.AssemblyInfo.cs
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\refint\Syntax.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.pdb
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\Syntax.genruntimeconfig.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Syntax\obj\Debug\net8.0\ref\Syntax.dll
