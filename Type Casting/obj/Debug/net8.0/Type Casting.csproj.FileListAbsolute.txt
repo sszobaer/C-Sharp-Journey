@@ -1,0 +1,28 @@
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.exe
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.deps.json
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.runtimeconfig.json
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.pdb
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfo.cs
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\refint\Type Casting.dll
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.pdb
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.genruntimeconfig.cache
+C:\Users\ZA SEYAM\Desktop\C# Journey\Type Casting\obj\Debug\net8.0\ref\Type Casting.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\bin\Debug\net8.0\Type Casting.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\refint\Type Casting.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\Type Casting.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Type Casting\obj\Debug\net8.0\ref\Type Casting.dll
