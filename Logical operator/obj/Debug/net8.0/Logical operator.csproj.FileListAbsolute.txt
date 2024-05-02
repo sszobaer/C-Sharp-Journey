@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\bin\Debug\net8.0\Logical operator.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\bin\Debug\net8.0\Logical operator.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\bin\Debug\net8.0\Logical operator.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\bin\Debug\net8.0\Logical operator.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\bin\Debug\net8.0\Logical operator.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\refint\Logical operator.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\Logical operator.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Logical operator\obj\Debug\net8.0\ref\Logical operator.dll
