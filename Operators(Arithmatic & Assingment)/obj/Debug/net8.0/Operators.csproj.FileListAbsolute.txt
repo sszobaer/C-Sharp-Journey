@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Operators\obj\Debug\net8.0\ref\Operators.dll
