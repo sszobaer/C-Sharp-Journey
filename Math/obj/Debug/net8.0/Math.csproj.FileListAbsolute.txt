@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\bin\Debug\net8.0\Math.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\bin\Debug\net8.0\Math.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\bin\Debug\net8.0\Math.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\bin\Debug\net8.0\Math.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\bin\Debug\net8.0\Math.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\refint\Math.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\Math.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Math\obj\Debug\net8.0\ref\Math.dll
