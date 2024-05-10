@@ -2,7 +2,7 @@
 using System;
 namespace MyFirstCode
 {
-    class Syntax
+    class Program
     {
         static void Main(string[]args)
         {
