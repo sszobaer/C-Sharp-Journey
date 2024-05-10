@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bool real Life exm Voting age/1.0.0": {
+        "runtime": {
+          "Bool real Life exm Voting age.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bool real Life exm Voting age/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
