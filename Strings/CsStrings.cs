@@ -55,7 +55,6 @@ namespace myApp
         Console.WriteLine(searchEngine[0]);
         Console.WriteLine(searchEngine[4]);
 
-
         }
     }
 }
