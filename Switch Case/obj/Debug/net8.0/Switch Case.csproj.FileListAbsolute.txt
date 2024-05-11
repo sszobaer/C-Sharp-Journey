@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\bin\Debug\net8.0\Switch Case.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\bin\Debug\net8.0\Switch Case.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\bin\Debug\net8.0\Switch Case.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\bin\Debug\net8.0\Switch Case.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\bin\Debug\net8.0\Switch Case.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\refint\Switch Case.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\Switch Case.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Switch Case\obj\Debug\net8.0\ref\Switch Case.dll
