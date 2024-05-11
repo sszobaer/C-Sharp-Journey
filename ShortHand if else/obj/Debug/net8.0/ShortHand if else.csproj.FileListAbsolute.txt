@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\bin\Debug\net8.0\ShortHand if else.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\bin\Debug\net8.0\ShortHand if else.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\bin\Debug\net8.0\ShortHand if else.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\bin\Debug\net8.0\ShortHand if else.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\bin\Debug\net8.0\ShortHand if else.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\refint\ShortHand if else.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ShortHand if else.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\ShortHand if else\obj\Debug\net8.0\ref\ShortHand if else.dll
