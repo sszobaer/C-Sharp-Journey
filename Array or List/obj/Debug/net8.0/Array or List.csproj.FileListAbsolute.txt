@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\bin\Debug\net8.0\Array or List.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\bin\Debug\net8.0\Array or List.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\bin\Debug\net8.0\Array or List.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\bin\Debug\net8.0\Array or List.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\bin\Debug\net8.0\Array or List.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\refint\Array or List.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\Array or List.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Array or List\obj\Debug\net8.0\ref\Array or List.dll
