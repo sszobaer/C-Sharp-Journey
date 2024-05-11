@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\bin\Debug\net8.0\loops.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\bin\Debug\net8.0\loops.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\bin\Debug\net8.0\loops.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\bin\Debug\net8.0\loops.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\bin\Debug\net8.0\loops.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\refint\loops.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\loops.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\loops\obj\Debug\net8.0\ref\loops.dll
