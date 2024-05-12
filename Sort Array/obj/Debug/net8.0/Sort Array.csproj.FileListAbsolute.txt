@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\bin\Debug\net8.0\Sort Array.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\bin\Debug\net8.0\Sort Array.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\bin\Debug\net8.0\Sort Array.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\bin\Debug\net8.0\Sort Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\bin\Debug\net8.0\Sort Array.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\refint\Sort Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\Sort Array.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Sort Array\obj\Debug\net8.0\ref\Sort Array.dll
