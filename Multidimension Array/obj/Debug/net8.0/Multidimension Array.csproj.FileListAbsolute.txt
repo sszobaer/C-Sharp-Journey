@@ -1,0 +1,14 @@
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\bin\Debug\net8.0\Multidimension Array.exe
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\bin\Debug\net8.0\Multidimension Array.deps.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\bin\Debug\net8.0\Multidimension Array.runtimeconfig.json
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\bin\Debug\net8.0\Multidimension Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\bin\Debug\net8.0\Multidimension Array.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.AssemblyInfoInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.AssemblyInfo.cs
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.csproj.CoreCompileInputs.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\refint\Multidimension Array.dll
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.pdb
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\Multidimension Array.genruntimeconfig.cache
+C:\Users\ZA SEYAM\OneDrive - American International University-Bangladesh\C# Journey\Multidimension Array\obj\Debug\net8.0\ref\Multidimension Array.dll
