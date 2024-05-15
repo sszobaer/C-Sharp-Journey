@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\bin\Debug\net8.0\PS - 06.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\bin\Debug\net8.0\PS - 06.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\bin\Debug\net8.0\PS - 06.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\bin\Debug\net8.0\PS - 06.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\bin\Debug\net8.0\PS - 06.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\refint\PS - 06.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\PS - 06.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 06\obj\Debug\net8.0\ref\PS - 06.dll
