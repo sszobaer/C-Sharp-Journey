@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\bin\Debug\net8.0\PS - 02 switch.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\bin\Debug\net8.0\PS - 02 switch.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\bin\Debug\net8.0\PS - 02 switch.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\bin\Debug\net8.0\PS - 02 switch.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\bin\Debug\net8.0\PS - 02 switch.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\refint\PS - 02 switch.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\PS - 02 switch.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Basic Problem solving\PS - 02 switch\obj\Debug\net8.0\ref\PS - 02 switch.dll
