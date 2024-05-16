@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\bin\Debug\net8.0\Methods.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\bin\Debug\net8.0\Methods.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\bin\Debug\net8.0\Methods.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Methods\obj\Debug\net8.0\ref\Methods.dll
