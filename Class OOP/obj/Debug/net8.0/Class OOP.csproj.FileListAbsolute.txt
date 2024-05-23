@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\bin\Debug\net8.0\Class OOP.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\bin\Debug\net8.0\Class OOP.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\bin\Debug\net8.0\Class OOP.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\bin\Debug\net8.0\Class OOP.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\bin\Debug\net8.0\Class OOP.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\refint\Class OOP.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\Class OOP.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class OOP\obj\Debug\net8.0\ref\Class OOP.dll

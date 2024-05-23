@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\bin\Debug\net8.0\Class Member.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\bin\Debug\net8.0\Class Member.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\bin\Debug\net8.0\Class Member.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\bin\Debug\net8.0\Class Member.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\bin\Debug\net8.0\Class Member.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\refint\Class Member.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\Class Member.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Class Member\obj\Debug\net8.0\ref\Class Member.dll
