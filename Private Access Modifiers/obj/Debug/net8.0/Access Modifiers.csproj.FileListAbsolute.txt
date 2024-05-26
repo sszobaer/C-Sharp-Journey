@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\bin\Debug\net8.0\Access Modifiers.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\bin\Debug\net8.0\Access Modifiers.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\bin\Debug\net8.0\Access Modifiers.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\bin\Debug\net8.0\Access Modifiers.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\bin\Debug\net8.0\Access Modifiers.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\refint\Access Modifiers.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\Access Modifiers.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Access Modifiers\obj\Debug\net8.0\ref\Access Modifiers.dll

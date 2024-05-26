@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\bin\Debug\net8.0\Public Access Modifier.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\bin\Debug\net8.0\Public Access Modifier.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\bin\Debug\net8.0\Public Access Modifier.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\bin\Debug\net8.0\Public Access Modifier.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\bin\Debug\net8.0\Public Access Modifier.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\refint\Public Access Modifier.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\Public Access Modifier.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Public Access Modifier\obj\Debug\net8.0\ref\Public Access Modifier.dll
