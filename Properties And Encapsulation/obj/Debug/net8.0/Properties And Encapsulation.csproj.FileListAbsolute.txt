@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\bin\Debug\net8.0\Properties And Encapsulation.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\bin\Debug\net8.0\Properties And Encapsulation.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\bin\Debug\net8.0\Properties And Encapsulation.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\bin\Debug\net8.0\Properties And Encapsulation.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\bin\Debug\net8.0\Properties And Encapsulation.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\refint\Properties And Encapsulation.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\Properties And Encapsulation.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Properties And Encapsulation\obj\Debug\net8.0\ref\Properties And Encapsulation.dll

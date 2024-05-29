@@ -1,0 +1,14 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\bin\Debug\net8.0\Short hand properties.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\bin\Debug\net8.0\Short hand properties.deps.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\bin\Debug\net8.0\Short hand properties.runtimeconfig.json
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\bin\Debug\net8.0\Short hand properties.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\bin\Debug\net8.0\Short hand properties.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.AssemblyInfoInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.AssemblyInfo.cs
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\refint\Short hand properties.dll
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\Short hand properties.genruntimeconfig.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\C# Journey\Short hand properties\obj\Debug\net8.0\ref\Short hand properties.dll
