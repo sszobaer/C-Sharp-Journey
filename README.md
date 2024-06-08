@@ -1,2 +1,2 @@
 # C#-Journey
-![c-sharp-training-institute-in-chennai](https://github.com/sszobaer/C-Sharp-Journey/assets/118447914/eb4d5147-54de-4e83-8a6b-4f861c3d95e6)
+![enums (2)](https://github.com/sszobaer/C-Sharp-Journey/assets/118447914/25353b71-7262-4f3a-bc78-b7dd46b9bda6)
